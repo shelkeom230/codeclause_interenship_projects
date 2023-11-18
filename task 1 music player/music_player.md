@@ -1,4 +1,4 @@
-##MP3 Music Player
+## Mp3 Music Player 
 
 ![image](https://github.com/shelkeom230/codeclause_interenship_projects/assets/104075298/971d5e54-9dde-486b-a9b4-848b0014b51b)
 
