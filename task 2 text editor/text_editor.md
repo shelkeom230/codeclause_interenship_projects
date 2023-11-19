@@ -4,8 +4,6 @@
 
 ![text editor 1](https://github.com/shelkeom230/codeclause_interenship_projects/assets/104075298/599c7436-687a-47c4-9a09-856512676126)
 
-![image](https://github.com/shelkeom230/codeclause_interenship_projects/assets/104075298/25ef3e7a-93f9-4d46-93fe-027f3c05d6d4)
-
 ## Table of Contents
 
 - [Overview](#overview)
