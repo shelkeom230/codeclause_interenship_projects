@@ -1,4 +1,3 @@
-```markdown
 # Tkinter Mail Sender
 
 ## Overview
