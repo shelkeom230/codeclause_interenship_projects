@@ -1,4 +1,3 @@
-```markdown
 # Tkinter Plagiarism Checker
 
 ## Overview
