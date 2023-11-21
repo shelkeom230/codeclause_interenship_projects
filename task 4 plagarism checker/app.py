@@ -59,3 +59,6 @@ if __name__ == "__main__":
     root = tk.Tk()
     plagiarism_checker = PlagiarismChecker(root)
     root.mainloop()
+
+# I have made use of difflib to check for the similarity
+# let's run the program 

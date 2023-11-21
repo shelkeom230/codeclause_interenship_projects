@@ -104,3 +104,5 @@ if __name__ == "__main__":
     root = tk.Tk()
     music_player = MusicPlayer(root)
     root.mainloop()
+
+# let's run this program 

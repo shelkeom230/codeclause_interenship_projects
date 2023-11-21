@@ -94,3 +94,6 @@ if __name__ == "__main__":
     root.configure(bg='lightblue')
     mail_sender = MailSender(root)
     root.mainloop()
+
+# I made use of smtplib library and gmai service 
+# let's run the program

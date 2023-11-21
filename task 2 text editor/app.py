@@ -116,3 +116,6 @@ if __name__ == "__main__":
     root = tk.Tk()
     text_editor = TextEditor(root)
     root.mainloop()
+
+# it is very similar to notepad in windows 
+# let's run the program 
